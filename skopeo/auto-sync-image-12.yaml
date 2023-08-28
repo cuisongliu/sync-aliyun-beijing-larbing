@@ -1,0 +1,8 @@
+docker.io:
+  images:
+    labring/fluxcd: []
+    labring/kubevela: []
+    labring/mssql-server: []
+    labring/rabbitmq-cluster-operator: []
+    labring/weave-gitops: []
+  tls-verify: false

@@ -1,0 +1,8 @@
+docker.io:
+  images:
+    labring/chaos-mesh: []
+    labring/chaos-mesh-containerd: []
+    labring/chaos-mesh-crio: []
+    labring/kube-state-metrics: []
+    labring/multus-cni: []
+  tls-verify: false

@@ -1,0 +1,8 @@
+docker.io:
+  images:
+    labring/eck-operator: []
+    labring/flink-kubernetes-operator: []
+    labring/fluent-bit: []
+    labring/fluent-operator-containerd: []
+    labring/kong-ingress-controller: []
+  tls-verify: false
