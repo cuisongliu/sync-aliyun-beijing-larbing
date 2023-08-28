@@ -1,0 +1,8 @@
+docker.io:
+  images:
+    labring/bond-cni: []
+    labring/gitlab-operator: []
+    labring/podman: []
+    labring/skopeo: []
+    labring/zadig: []
+  tls-verify: false
