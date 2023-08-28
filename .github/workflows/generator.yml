@@ -29,8 +29,7 @@ jobs:
           signoff: true
           delete-branch: true
           token: ${{ secrets.GH_PAT }}
-          reviewers: cuisongliu
           branch-suffix: short-commit-hash
           labels: sync-images
-          committer: sealos-ci-robot <sealos-ci-robot@sealos.io>
-          author: sealos-ci-robot <sealos-ci-robot@sealos.io>
+          committer: cuisongliu <cuisongliu@qq.com>
+          author: cuisongliu <cuisongliu@qq.com>
